@@ -95,3 +95,21 @@ video, audio {
 .voucher:hover {
     background: #ffca28;
 }
+.nav-menu {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.nav-menu a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.secondary-link {
+    color: gray;
+    font-size: 0.9em;
+    font-weight: normal !important;
+}
