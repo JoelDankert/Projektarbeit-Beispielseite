@@ -1,4 +1,4 @@
-"## Projektarbeit Beispielseite
+## Projektarbeit Beispielseite
 
 Diese Website ist eine **Beispielseite** für die Hintergründe der Firma Kimono Intimates – kurz SKIMS. Sie behandelt grundlegende Konzepte von HTML und CSS und dient ausschließlich zu Lern- und Demonstrationszwecken.
 
@@ -10,12 +10,14 @@ Diese Website ist eine **Beispielseite** für die Hintergründe der Firma Kimono
 - Einfacher, übersichtlicher Aufbau zur Vermittlung grundlegender Webentwicklungskonzepte
 
 ## Installation
-̀ ̀ ̀ ̀ 
+̀
+```
 1. Repository herunterladen oder klonen:
    git clone <repository-url>
 2. Dateien lokal entpacken (falls als ZIP heruntergeladen).
 3. Öffne die Datei index.html in einem Webbrowser deiner Wahl.
-̀ ̀ ̀ ̀ 
+```
+̀
 Es werden keine zusätzlichen Abhängigkeiten oder Installationen benötigt.
 
 ## Verwendung
@@ -33,4 +35,4 @@ Diese Website ist nicht für den kommerziellen Gebrauch bestimmt.
 
 ## Lizenz
 
-Dieses Projekt steht unter keiner speziellen Lizenz und ist ausschließlich für Bildungs- und Demonstrationszwecke gedacht. Eine kommerzielle Nutzung oder Weiterverbreitung der Inhalte ist nicht gestattet."
+Dieses Projekt steht unter keiner speziellen Lizenz und ist ausschließlich für Bildungs- und Demonstrationszwecke gedacht. Eine kommerzielle Nutzung oder Weiterverbreitung der Inhalte ist nicht gestattet.
